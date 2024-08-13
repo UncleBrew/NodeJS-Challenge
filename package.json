@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "inquirer": "^10.1.8"
+  },
+  "devDependencies": {
+    "dependencies": "^0.0.1",
+    "typescript": "^5.5.4"
+  },
+  "name": "02-challenge",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
